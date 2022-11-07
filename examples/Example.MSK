@@ -1,0 +1,5 @@
+VERSION 5/28/2004 8:02:42 PM
+FIG #example.MSK
+BB(-15,-15,50,50)
+SIMU #5.00
+FFIG example.MSK
